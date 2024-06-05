@@ -9,7 +9,7 @@
 	text-decoration: none;
 }
 
-.logo-section {
+.logo-header {
 	color: #2e2f42;
 }
 
@@ -194,5 +194,9 @@ button {
 }
 
 .footer {
-    background-color: #2e2f42;
+	background-color: #2e2f42;
+}
+
+.logo-footer {
+	color: #f4f4fd;
 }
