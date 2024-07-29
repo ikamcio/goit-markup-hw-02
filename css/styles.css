@@ -116,10 +116,10 @@ button {
 
 .header-button:hover,
 .header-button:focus {
-	background-color: #404bbf;
+	background-color: #404BBF;
 }
 
-.industries-section h3 {
+.industries-title {
 	font-weight: 500;
 	font-size: 20px;
 	line-height: 1.2;
@@ -127,7 +127,7 @@ button {
 	color: #2e2f42;
 }
 
-.industries-section p {
+.industries-text {
 	font-size: 16px;
 	line-height: 1.5;
 	letter-spacing: 0.02em;
@@ -138,7 +138,7 @@ button {
 	background-color: #f4f4fd;
 }
 
-.team-section h2 {
+.team-title {
 	font-size: 36px;
 	line-height: 1.11;
 	text-align: center;
