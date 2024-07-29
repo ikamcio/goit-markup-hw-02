@@ -169,6 +169,12 @@ button {
 	line-height: 1.5;
 	letter-spacing: 0.02em;
 }
+
+.team-section img {
+    width:264;
+    height: 260;
+}
+
 .portfolio-section h2 {
 	font-size: 36px;
 	line-height: 1.11;
@@ -191,6 +197,11 @@ button {
 	line-height: 1.5;
 	letter-spacing: 0.02em;
 	color: #434455;
+}
+
+.portfolio-section img {
+width:360; 
+height:300;
 }
 
 .footer {
